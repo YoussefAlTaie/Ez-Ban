@@ -25,5 +25,4 @@ Not a legal tool programmer!!
 
 <p align="center">
   <img src="https://badges.frapsoft.com/os/v3/open-source.svg?v=103" alt="Open Source">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=LeetIDA.Ez-Ban" alt="Visitor Count">
 </p>
