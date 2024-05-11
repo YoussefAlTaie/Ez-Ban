@@ -11,9 +11,9 @@ Not a legal tool programmer!!
 
 ### ☕️ Usage
 
-1. Download Ruby [Python](https://www.python.org/downloads)
-2. OPEN CMD & Type gem install cgi httparty json nokogiri colorize net-http-persistent
-3. Run The Script **Ruby main.py**
+1. Download Python [Python](https://www.python.org/downloads)
+2. OPEN CMD & Type pip install pip install requests beautifulsoup4 termcolor
+3. Run The Script **Python main.py**
 4. Open Browser And Go To [Proxy](https://advanced.name/freeproxy/) & Click The Button For Get Free Proxies Link (2 GEN KEY)
    ![URL](https://x86.pics/i/proxy.png)
 5. Paste The KEY
