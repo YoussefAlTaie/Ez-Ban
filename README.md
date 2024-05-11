@@ -1,4 +1,6 @@
+## Python version of the ez ban tool ##
 
+Not a legal tool programmer!!
 
 ### 🏆 Features List
 
@@ -18,13 +20,6 @@
    ![Key](https://x86.pics/i/key.png)
 6. Put The Username & Hit Enter
    ![Image](https://x86.pics/i/username.png)
-
-##
-
-### 📜 License & Warning
-
-- Education Propose Only !!
-- Licensed Under GNU License.
 
 ##
 
