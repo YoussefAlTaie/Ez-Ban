@@ -19,8 +19,6 @@
 6. Put The Username & Hit Enter
    ![Image](https://x86.pics/i/username.png)
 
-> Thanks To [@givtt](https://github.com/givtt) For Make it Easy To Get User ID 💖
-
 ##
 
 ### 📜 License & Warning
